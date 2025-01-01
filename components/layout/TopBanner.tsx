@@ -2,7 +2,7 @@
 
 export default function TopBanner() {
   return (
-    <div className="w-full  bg-[#6366F1] text-white py-2 px-4 text-sm">
+    <div className="sticky top-0 z-50 w-full bg-[#6366F1] text-white py-2 px-4 text-sm">
       <div className="max-w-screen-2xl mx-auto">
         <div className="flex flex-col sm:flex-row justify-between items-center gap-2">
           <span className="text-center sm:text-left">Enjoy 25% Off on Iron VPS - Limited Time Offer!</span>

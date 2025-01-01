@@ -46,7 +46,7 @@ export const HostingSection = () => {
   ];
 
   return (
-    <section className="py-12 sm:py-16 lg:py-24 bg-gradient-to-b from-white to-gray-50">
+    <section className=" sm:py-16 lg: bg-gradient-to-b from-white to-gray-50">
       <div className="max-w-screen-2xl mx-auto px-4">
         <SectionTitle 
           category="Hosting"

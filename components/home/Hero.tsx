@@ -15,7 +15,7 @@ const Hero = () => {
 
   return (
     <div className="relative bg-hero-pattern bg-cover bg-center overflow-hidden pb-16 z-[-1]">
-      <div className="max-w-screen-2xl mx-auto px-4 py-8 sm:py-16 lg:py-20">
+      <div className="max-w-screen-2xl mx-auto px-4 sm:px-8 lg:px-12 py-8 sm:py-16 lg:py-20">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           {/* Left Column */}
           <div className="space-y-6 lg:space-y-8">

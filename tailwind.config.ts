@@ -18,6 +18,8 @@ const config: Config = {
         'black-texture': "url('/black.png')",
         'hosting-card': "url('/bg-cards.png')",
         'about-bg': "url('/about.png')",
+        'service-bg': "url('/service-bg.png')",
+        "service-lady": "url('/service-lady.jpg')",
       },
       colors: {
         nav: {

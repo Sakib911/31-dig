@@ -66,7 +66,7 @@ const Partners = () => {
   }, [isDragging]);
 
   return (
-    <div className="py-8 sm:py-12 lg:py-16 lg:mt-[-135px] z-[100]">
+    <div className=" sm:py-12  lg:mt-[-7.25rem] z-[100]">
       <div className="max-w-screen-xl mx-auto px-4 rounded-full z-[100]">
         <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8 border-r bg-[#DEF4FE] rounded-full pl-4 z-[100]">
           <h3 className="text-lg font-medium text-gray-600">Trusted&nbsp;By:</h3>
