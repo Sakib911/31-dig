@@ -3,8 +3,8 @@ import Partners from '@/components/home/Partners';
 import { HostingSection } from '@/components/home/hosting/HostingSection';
 import { AboutSection } from '@/components/home/about/AboutSection';
 import DomainSearch from '@/components/home/domainSearch/DomainSearch';
-import { Service } from '@/components/home/service/Service';
-
+import Service  from '@/components/home/service/Service';
+import {DigitalMarketing} from "@/components/home/digitalmarketing/DigitalMarketing"
 
 export default function Home() {
   return (
@@ -15,6 +15,7 @@ export default function Home() {
       <AboutSection />
      <DomainSearch/>
      <Service/>
+     <DigitalMarketing/>
     </main>
   );
 }
